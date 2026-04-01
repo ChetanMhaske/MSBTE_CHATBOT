@@ -13,9 +13,10 @@
 ---
 
 ## Authentication Screens
+![Login]()
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/51a2f93e-506d-4f41-98e6-3515e6d93f49" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3088227d-586b-48e0-ae09-2a3b024d8b54" width="250"/>
   <img src="https://github.com/user-attachments/assets/8d7e1e44-8555-4b82-b577-71d126773958" width="250"/>
 </p>
 
