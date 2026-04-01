@@ -1,5 +1,4 @@
-![Signup](https://github.com/user-attachments/assets/dad3af22-8feb-4ecf-b1dd-e42acda436f4)# MSBTE-AI
-
+# MSBTEAI
 ---
 
 # Requirements
